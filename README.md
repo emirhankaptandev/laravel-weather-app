@@ -32,7 +32,6 @@ Laravel ve OpenWeatherMap API kullanılarak yapılmış basit bir hava durumu uy
 ## Kurulum
 
 ### 1. Projeyi klonlayın
-Terminale girdikten sonra
 ```bash
-git clone https://github.com/emirhankaptandev/laravel-weather-app.git
+git clone [https://github.com/emirhankaptandev/laravel-weather-app.git](https://github.com/emirhankaptandev/laravel-weather-app.git)
 cd laravel-weather-app
